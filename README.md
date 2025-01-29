@@ -16,10 +16,15 @@ GET /
 The API returns the following JSON structure on a successful request:
 
 json
+
 {
+
   "email": "aghaken25@gmail.com",
+
   "current_datetime": "2025-01-28T12:00:00Z",
+
   "github_url": "https://github.com/DrApkFile/StageZero-Task"
+  
 }
 
 
