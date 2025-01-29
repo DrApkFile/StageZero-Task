@@ -1,20 +1,19 @@
 const express = require("express");
+const cors = require("cors");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Enable CORS
+app.use(cors());
+
 // API Endpoint
 app.get("/", (req, res) => {
-  const response = {
+  res.json({
     email: "aghaken25@gmail.com",
     current_datetime: new Date().toISOString(),
     github_url: "https://github.com/DrApkFile/StageZero-Task",
-  };
-
-  // Log a message indicating a successful request
-  console.log(`200 OK - GET request successful at ${new Date().toISOString()}`);
-
-  res.json(response);
+  });
 });
 
 // Start the server
