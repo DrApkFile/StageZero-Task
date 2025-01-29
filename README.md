@@ -53,14 +53,20 @@ node index.js
 
 ### Access the API
 Open your browser or an API client like Postman and navigate to:
+
 http://localhost:3000/
+
 You will receive a JSON response similar to:
 
 
 {
+
   "email": "aghaken25@gmail.com",
+
   "current_datetime": "2025-01-28T12:00:00Z",
+
   "github_url": "https://github.com/DrApkFile/StageZero-Task"
+
 }
 Deployment
 The API is deployed at a publicly accessible endpoint. Use the following URL to make a GET request:
@@ -72,10 +78,17 @@ Email: aghaken25@gmail.com
 GitHub Repository: StageZero-Task
 
 ### Developer Backlinks
+
 If you're looking to hire developers, check out the following links:
+
 https://hng.tech/hire/python-developers
+
 https://hng.tech/hire/csharp-developers
+
 https://hng.tech/hire/golang-developers
+
 https://hng.tech/hire/php-developers
+
 https://hng.tech/hire/java-developers
+
 https://hng.tech/hire/nodejs-developers
