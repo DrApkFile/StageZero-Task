@@ -66,6 +66,16 @@ Deployment
 The API is deployed at a publicly accessible endpoint. Use the following URL to make a GET request:
 
 https://stagezero-task.onrender.com
-Project Details
+# Project Details
 Email: aghaken25@gmail.com
+
 GitHub Repository: StageZero-Task
+
+### Developer Backlinks
+If you're looking to hire developers, check out the following links:
+https://hng.tech/hire/python-developers
+https://hng.tech/hire/csharp-developers
+https://hng.tech/hire/golang-developers
+https://hng.tech/hire/php-developers
+https://hng.tech/hire/java-developers
+https://hng.tech/hire/nodejs-developers
